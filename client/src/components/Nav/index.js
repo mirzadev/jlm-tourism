@@ -43,7 +43,7 @@ function Nav() {
     <header className="flex-row px-1">
       <h1>
         <Link to="/">
-          <span img src="./images/jlm-tourism.png" alt="logo" >  </span>
+          <span role="img" aria-label="JLM Logo"> </span>
           -JLM TOURISM
         </Link>
       </h1>
