@@ -202,6 +202,67 @@ input:focus {
 .error-text {
   color: var(--error);
 }
+.footer-space{
+  margin-bottom: 130px;
+}
+
+#footer-items {
+  margin-top: 80px;
+	grid-area: footer;
+  background: rgba(17, 15, 15, 0.8);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: fixed;
+        Width: 100%;
+        bottom: 0;
+  
+
+}
+.footer-cars, .footer-hotel, .location-address, .contact-email{
+  font-family: sans-serif;
+  font-weight: bold;
+  color: gold;
+}
+
+.hotels-cars, .contact-info{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer-cars{
+  font-size: 25px;
+  margin-right: 20px;
+  padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 15px;
+  background: #3f5bf8;
+  
+}
+.footer-hotel{
+  font-size: 25px;
+  margin-left: 20px;
+  padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 15px;
+  background: #3f5bf8;
+}
+.contact-email{
+  font-size: 20px;
+  margin-right: 40px;
+  margin-top: 15px;
+}
+.location-address{
+  font-size: 20px;
+  margin-right: 40px;
+  margin-top: 15px;
+}
+
+
+
 
 @media screen and (max-width: 768px) {
   .card {

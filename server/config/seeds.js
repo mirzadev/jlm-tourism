@@ -160,7 +160,7 @@ db.once('open', async () => {
       quantity: 30
     },
     {
-      name: 'The Ernest Hemingway Home and Museum',
+      name: 'Ernest Hemingway Museum',
       category: categories[3]._id,
       description:
         'The Ernest Hemingway House was the residence of American writer Ernest Hemingway in the 1930s. The house is situated on the island of Key West in Florida. It is located at: "907 Whitehead St, Key West, FL 33040". ',
