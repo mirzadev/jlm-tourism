@@ -220,7 +220,12 @@ input:focus {
   
 
 }
-.footer-cars, .footer-hotel, .location-address, .contact-email{
+.footer-cars, .footer-hotel{
+  font-family: sans-serif;
+  font-weight: bold;
+  color: rgb(0, 255, 34);
+}
+.location-address, .contact-email{
   font-family: sans-serif;
   font-weight: bold;
   color: gold;
@@ -234,31 +239,26 @@ input:focus {
 .footer-cars{
   font-size: 25px;
   margin-right: 20px;
-  padding: 5px;
-  padding-left: 15px;
-  padding-right: 15px;
-  border-radius: 15px;
-  background: #3f5bf8;
+  
   
 }
 .footer-hotel{
   font-size: 25px;
   margin-left: 20px;
-  padding: 5px;
-  padding-left: 15px;
-  padding-right: 15px;
-  border-radius: 15px;
-  background: #3f5bf8;
+
+ 
 }
 .contact-email{
   font-size: 20px;
-  margin-right: 40px;
+  margin-right: 150px;
   margin-top: 15px;
 }
 .location-address{
   font-size: 20px;
   margin-right: 40px;
   margin-top: 15px;
+  margin-left: 150px;
+  
 }
 
 

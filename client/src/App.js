@@ -54,11 +54,10 @@ function App() {
             </Switch>
             <footer className='row center mt-3' id="footer-items">
               <div class="hotels-cars">
+
+                <a class="contact-email" href="mailto:customerservice@jlm_tourism.com">Contact: Email - customerservice@jlm_tourism.com</a>
                 <a class="footer-cars" href="https://bridge.carnect.com" > Rent a Car</a>
                 <a class="footer-hotel" href="https://www.hotelbeds.com/login" > Search For Hotel</a>
-              </div>
-              <div class="contact-info">
-                <a class="contact-email" href="mailto:customerservice@jlm_tourism.com">Contact: Email - customerservice@jlm_tourism.com</a>
                 <a class="location-address" href="https://www.google.com/search?rlz=1C1CHBF_enUS953US953&tbs=lf:1,lf_ui:10&tbm=lcl&sxsrf=AOaemvIwl8l_2AztRiy9d-_gPBKE8gzDAQ:1631592355058&q=miami+shopping+centers&rflfq=1&num=10&ved=2ahUKEwiW1faVy_3yAhUdKVkFHV5bCw4QtgN6BAgbEAQ#rlfi=hd:;si:18115241926405961007;mv:[[25.719071831343403,-80.3415402250283],[25.715567869821335,-80.34958685207297],null,[25.717319863483514,-80.34556353855064],18]" target="_blank">Address: 9375 SW 56th St, Miami, FL-33165</a>
 
               </div>
