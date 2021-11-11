@@ -217,8 +217,6 @@ input:focus {
   position: fixed;
         Width: 100%;
         bottom: 0;
-  
-
 }
 .footer-cars, .footer-hotel{
   font-family: sans-serif;
@@ -238,15 +236,11 @@ input:focus {
 }
 .footer-cars{
   font-size: 25px;
-  margin-right: 20px;
-  
-  
+  margin-right: 20px; 
 }
 .footer-hotel{
   font-size: 25px;
-  margin-left: 20px;
-
- 
+  margin-left: 20px; 
 }
 .contact-email{
   font-size: 20px;
@@ -257,12 +251,8 @@ input:focus {
   font-size: 20px;
   margin-right: 40px;
   margin-top: 15px;
-  margin-left: 150px;
-  
+  margin-left: 150px;  
 }
-
-
-
 
 @media screen and (max-width: 768px) {
   .card {
