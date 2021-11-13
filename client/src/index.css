@@ -235,23 +235,23 @@ input:focus {
   justify-content: center;
 }
 .footer-cars{
-  font-size: 25px;
+  font-size: 23px;
   margin-right: 20px; 
 }
 .footer-hotel{
-  font-size: 25px;
+  font-size: 23px;
   margin-left: 20px; 
 }
 .contact-email{
-  font-size: 20px;
-  margin-right: 150px;
+  font-size: 18px;
+  margin-right: 120px;
   margin-top: 15px;
 }
 .location-address{
-  font-size: 20px;
-  margin-right: 40px;
+  font-size: 18px;
+  margin-right: 30px;
   margin-top: 15px;
-  margin-left: 150px;  
+  margin-left: 130px;  
 }
 
 @media screen and (max-width: 768px) {
