@@ -10,13 +10,13 @@ function Nav() {
       return (
         <ul className="flex-row">
           <li className="mx-1">
-            <Link to="/orderHistory" class="order-history">
+            <Link to="/orderHistory" className="order-history">
               Order History
             </Link>
           </li>
           <li className="mx-1">
             {/* this is not using the Link component to logout or user and then refresh the application to the start */}
-            <a class="logout-option" href="/" onClick={() => Auth.logout()}>
+            <a className="logout-option" href="/" onClick={() => Auth.logout()}>
               Logout
             </a>
           </li>
@@ -26,12 +26,12 @@ function Nav() {
       return (
         <ul className="flex-row">
           <li className="mx-1">
-            <Link to="/login" class="login">
+            <Link to="/login" className="login">
               Login
             </Link>
           </li>
           <li className="mx-2">
-            <Link to="/signup" class="signup">
+            <Link to="/signup" className="signup">
               Signup
             </Link>
           </li>
