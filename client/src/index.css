@@ -203,14 +203,14 @@ input:focus {
   color: var(--error);
 }
 .footer-space{
-  margin-bottom: 130px;
+  margin-bottom: 80px;
 }
 
 #footer-items {
   margin-top: 80px;
 	grid-area: footer;
   background: rgba(17, 15, 15, 0.8);
-  padding: 20px;
+  padding: 12px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -226,7 +226,7 @@ input:focus {
 .location-address, .contact-email{
   font-family: sans-serif;
   font-weight: bold;
-  color: gold;
+  color: rgb(0, 255, 34);
 }
 
 .hotels-cars, .contact-info{
@@ -243,15 +243,23 @@ input:focus {
   margin-left: 20px; 
 }
 .contact-email{
-  font-size: 18px;
-  margin-right: 120px;
-  margin-top: 15px;
+  font-size: 16px;
+  margin-right: 80px;
+  margin-top: 10px;
 }
 .location-address{
-  font-size: 18px;
+  font-size: 16px;
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-left: 80px;  
+}
+.weather-condition{
+  font-family: sans-serif;
+  font-weight: bold;
+  color: rgb(0, 255, 34);
+  font-size: 16px;
   margin-right: 30px;
-  margin-top: 15px;
-  margin-left: 130px;  
+  margin-left: 40px;  
 }
 
 @media screen and (max-width: 768px) {
