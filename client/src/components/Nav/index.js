@@ -44,8 +44,8 @@ function Nav() {
     <header className="flex-row px-1">
       <h1 class="company-name">
         <Link to="/">
-          <img src="/images/jlm-tourism.png" role="img" aria-label="JLM Logo" class="app-logo" style={{ width: 75, height: 75 }} />
-          <img src="/images/jlm-heading.jpg" role="img" aria-label="JLM Heading" class="app-heading" style={{ width: 500, height: 75 }} />
+          <img src="/images/jlm-tourism.png" role="img" aria-label="JLM Logo" class="app-logo" alt=" " style={{ width: 75, height: 75 }} />
+          <img src="/images/jlm-heading.jpg" role="img" aria-label="JLM Heading" alt=" " class="app-heading" style={{ width: 500, height: 75 }} />
 
         </Link>
       </h1>

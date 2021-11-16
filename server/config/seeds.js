@@ -192,7 +192,7 @@ db.once('open', async () => {
       description:
         'The Ponce de Leon Inlet Light is a lighthouse and museum located at Ponce de León Inlet in Central Florida.It is 175 feet (53 m) in height, which is the tallest lighthouse in the state and one of the tallest in the United States. It is located at: "4931 S Peninsula Dr, Ponce Inlet, FL 32127".  ',
       image: 'ponce-de-leon-lighthouse.jpg',
-      price: 1199.99,
+      price: 119.99,
       quantity: 30
     }
   ]);
