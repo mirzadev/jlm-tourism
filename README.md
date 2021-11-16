@@ -44,6 +44,8 @@
 
 - [Application Deployed in Heroku](https://redux-store-mirza.herokuapp.com/)
 
+- [Application Deployed in Netlify](https://brave-boyd-6d79de.netlify.app/)
+
 - [Github link](https://mirzadev.github.io/redux-store/)
 
 
@@ -51,6 +53,7 @@
 
 ```text
 As a User of e-commerce I want to regularly visit an e-commerce web site where I can view product, it's price, and then decide to purchase my desired product.
+
 AS a full Stack developer working on an e-commerce platform
 I WANT my platform to use MERN and Redux to manage global state instead of the Context API
 SO THAT my website's state management is taken out of the React ecosystem
@@ -59,6 +62,7 @@ SO THAT my website's state management is taken out of the React ecosystem
 ## Acceptance Criteria
 
 ```text
+As a user
 GIVEN a tourism e-commerce site
 WHEN I visit site
 THEN I am presented with the home page with the option- Login and Signup options at the right side of the navbar. As soon as I sign, the navbar will display the option - Order History and Logout. There will always have a "Cart" at the right most corner of the navbar.  
@@ -85,8 +89,20 @@ WHEN I click on cart
 THEN I see an empty cart
 WHEN I click on the logout option in the navigation bar
 THEN I am signed out of the site and navigated to the home page of the application
-As a full stack developer
-GIVEN an e-commerce platform that uses Redux to manage global state
+WHEN I Click on Contact:Email
+THEN I find the app navigates to email process.
+WHEN I click on Reant a Car
+Then I find the app is linking me with the car rental company to manage my car using third party website.
+WHEN I click on Search for Hotel
+Then I find the app is linking me with the third party company website to manage my hotel needs during tour.
+WHEN I Click on Address
+THEN I find the app navigates to address including map direction.
+WHEN I click on Local Weather
+Then I find the app is linking me with the weather application that gives me weather updates during my tour. 
+
+
+As a Full Stack Developer
+GIVEN an e-commerce platform that uses MERN, PWA and Redux.
 WHEN I review the app’s store
 THEN I find that the app uses a Redux store instead of the Context API
 WHEN I review the way the React front end accesses the store
@@ -97,6 +113,10 @@ WHEN I review the way the app extracts state data from the store
 THEN I find that the app uses Redux instead of the Context API
 WHEN I review the way the app dispatches actions
 THEN I find that the app uses Redux instead of the Context API
+WHEN I try to install the app in my desktop or Android
+THEN I find the app is installable and can browse throught the application stand alone
+WHEN I try to use the app off line
+THEN I find the app working as normal.
 ```
 
 ## Installation
@@ -114,6 +134,7 @@ THEN I find that the app uses Redux instead of the Context API
 - Google Book API
 - Express
 - Stripe
+- PWA
 
 ## Usage
 💻   
@@ -123,6 +144,8 @@ Run the following command at the terminal:
 `npm run seed`
 
 `npm run develop`
+
+`npm run build`
 
 ## Questions
 ✉️ Contact me with any questions: [email](mailto:awal.mirza2016@gmail.com) , [LinkedIn](https://www.linkedin.com/in/mirza-awal-5972511b5/)
