@@ -1,0 +1,21 @@
+{
+  "name": "React JLM-Tourism",
+  "short_name": "Jlmtour",
+  "theme_color": "#0b0101",
+  "background_color": "#0b0101",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "images/icons/JLMIcon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icons/JLMIcon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
