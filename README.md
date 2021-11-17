@@ -16,27 +16,29 @@
 - [Installation](#installation)
 - [Tools](#tools)
 - [Usage](#usage)
+- [Contributing](#contributing)
 - [Questions](#questions)
+- [Copyright](#copyright)
 
 
 ## App Screenshots
 
 - Picture of the Application Home Screen.
-![Application Home Screen](./images/Application-Home-Screen.JPG)
+![Application Home Screen](./images/home-page.JPG)
 
 - Picture of Application with Cart
-![Application with Cart](./images/Application-With-Cart.JPG)
+![Application with Cart](./images/application-with-cart.JPG)
 
 - Picture of Payment with Stripe
 
-![Payment options](./images/Payment-Option.JPG)
+![Payment options](./images/application-with-payment-process.JPG)
 
 - Picture of Payment Success Message
 
-![Payment Success Message](./images/Success-Message.JPG)
+![Payment Success Message](./images/picture-success-message.JPG)
 
 - Order History.
-![Order history](./images/Order-History.JPG)
+![Order history](./images/picture-ordered-item.JPG)
 
 
 ## Overview Links
@@ -44,9 +46,7 @@
 
 - [Application Deployed in Heroku](https://jlm-tourism.herokuapp.com/)
 
-- [Application Deployed in Netlify](https://brave-boyd-6d79de.netlify.app/)
-
-- [Github link](https://mirzadev.github.io/redux-store/)
+- [Github link](https://mirzadev.github.io/jlm-tourism/)
 
 
 ## User Story
@@ -147,5 +147,19 @@ Run the following command at the terminal:
 
 `npm run build`
 
+## Contributing
+
+:Github Link: [Mirza Awal](https://github.com/mirzadev)
+:Github Link: [Luis A Retana-Gaitan](https://github.com/lretana1)
+:Github Link: [Jeremy McGuirk](https://github.com/Jeremymcg88)
+
+
 ## Questions
 ✉️ Contact me with any questions: [email](mailto:awal.mirza2016@gmail.com) , [LinkedIn](https://www.linkedin.com/in/mirza-awal-5972511b5/)
+
+## Copyright
+
+*This application is copyright protected and only owners are  
+[Mirza Awal](https://github.com/mirzadev) ,
+[Luis A Retana-Gaitan](https://github.com/lretana1) and
+[Jeremy McGuirk](https://github.com/Jeremymcg88)*
