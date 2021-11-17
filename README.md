@@ -127,7 +127,6 @@ THEN I find the app working as normal.
 ## Tools
 - NodeJS
 - MongoDB
-- Mongoose
 - Apollo
 - React
 - Graphql
