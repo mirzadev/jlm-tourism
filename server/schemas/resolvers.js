@@ -91,6 +91,13 @@ const resolvers = {
 
       return { session: session.id };
 
+    },
+    weather: () => {
+
+
+      return {
+        temp: "74"
+      }
     }
 
   },
