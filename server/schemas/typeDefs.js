@@ -46,6 +46,11 @@ const typeDefs = gql`
     user: User
     order(_id: ID!): Order
     checkout(products: [ID]!): Checkout
+    weather: Weather
+  }
+
+  type Weather{
+    temp: String
   }
 
   type Mutation {
@@ -55,6 +60,8 @@ const typeDefs = gql`
     updateProduct(_id: ID!, quantity: Int!): Product
     login(email: String!, password: String!): Auth
   }
+
+
   
 `;
 

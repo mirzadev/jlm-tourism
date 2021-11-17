@@ -42,7 +42,7 @@
 ## Overview Links
 - [Application walkthrough](https://watch.screencastify.com/v/YrGWoL55svWsD4Odbhg8)
 
-- [Application Deployed in Heroku](https://redux-store-mirza.herokuapp.com/)
+- [Application Deployed in Heroku](https://jlm-tourism.herokuapp.com/)
 
 - [Application Deployed in Netlify](https://brave-boyd-6d79de.netlify.app/)
 
