@@ -61,8 +61,8 @@ function App() {
                 <a className="footer-cars" href="https://bridge.carnect.com" > Rent a Car</a>
                 <a className="footer-hotel" href="https://www.hotelbeds.com/login" > Search For Hotel</a>
                 <a className="location-address" href="https://www.google.com/search?rlz=1C1CHBF_enUS953US953&tbs=lf:1,lf_ui:10&tbm=lcl&sxsrf=AOaemvIwl8l_2AztRiy9d-_gPBKE8gzDAQ:1631592355058&q=miami+shopping+centers&rflfq=1&num=10&ved=2ahUKEwiW1faVy_3yAhUdKVkFHV5bCw4QtgN6BAgbEAQ#rlfi=hd:;si:18115241926405961007;mv:[[25.719071831343403,-80.3415402250283],[25.715567869821335,-80.34958685207297],null,[25.717319863483514,-80.34556353855064],18]" target="_blank" rel="noopener noreferrer">Address: 9375 SW 56th St, Miami, FL-33165</a>
-                <a className="weather-condition" href="https://www.accuweather.com/en/us/hollywood/33020/weather-forecast/332286" target="_blank" rel="noopener noreferrer"> <img src="/images/weather-icon.png" role="img" aria-label="Weather icon" class="icon" style={{ width: 40, height: 40 }} />Local Weather</a>
-              </div>
+                <a className="weather-condition" href="https://thirsty-williams-15b73e.netlify.app/" target="_blank" rel="noopener noreferrer"> <img src="/images/weather-icon.png" role="img" aria-label="Weather icon" class="icon" style={{ width: 40, height: 40 }} />Local Weather</a>
+              </div>npm
             </footer>
           </StoreProvider>
 
