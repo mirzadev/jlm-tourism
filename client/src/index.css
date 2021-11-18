@@ -207,10 +207,10 @@ input:focus {
 }
 
 #footer-items {
-  margin-top: 80px;
+  margin-top: 30px;
 	grid-area: footer;
   background: rgba(17, 15, 15, 0.8);
-  padding: 12px;
+  padding: 10px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
