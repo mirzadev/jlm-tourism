@@ -100,7 +100,6 @@ THEN I find the app navigates to address including map direction.
 WHEN I click on Local Weather
 Then I find the app is linking me with the weather application that gives me weather updates during my tour. 
 
-
 As a Full Stack Developer
 GIVEN an e-commerce platform that uses MERN, PWA and Redux.
 WHEN I review the app’s store
