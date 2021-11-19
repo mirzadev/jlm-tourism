@@ -42,7 +42,7 @@
 
 
 ## Overview Links
-- [Application walkthrough](https://watch.screencastify.com/v/YrGWoL55svWsD4Odbhg8)
+- [Application walkthrough](https://watch.screencastify.com/v/VP0ozTzfolxB7Xxmb2U6)
 
 - [Application Deployed in Heroku](https://jlm-tourism.herokuapp.com/)
 
