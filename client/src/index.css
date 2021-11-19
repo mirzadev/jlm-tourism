@@ -262,8 +262,14 @@ input:focus {
   margin-left: 40px;  
 }
 
-@media screen and (max-width: 768px) {
-  .card {
-    width: 100%;
+@media screen and (max-width: 768px){
+  .hotels-cars a {
+      width: 100%;
+      margin: 0 auto;
+      display: table;
+      text-align: center;
+  }
+  .hotels-cars {
+      display: table;
   }
 }
