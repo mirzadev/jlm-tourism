@@ -272,4 +272,24 @@ input:focus {
   .hotels-cars {
       display: table;
   }
+  html,
+body a {
+  width: 100%;
+  margin: 0 auto;
+  display: table;
+  text-align: center;
+}
+html,
+body {
+  display: table;
+}
+body a{
+  width: 100%;
+  margin: 0 auto;
+  display: table;
+  text-align: center;
+}
+body{
+  display: table;
+}
 }
