@@ -3,7 +3,8 @@
       padding-bottom: 50px;
       margin-bottom: 30px;
       margin-top: 0px;
-      position: fixed;     
+      position: fixed;
+           
 }
 
 .app-logo{
@@ -12,7 +13,7 @@
 }
 .app-heading{
       
-      margin-left: 50px;
+      margin-left: 00px;
 }
 .mx-1, .mx-2{
       margin-top: 15px;
@@ -25,16 +26,30 @@
       
 }
 .mx-2{
-      margin-left: 30px;
+      margin-right: 100px;
 }
 .signup, .login, .order-history, .logout-option {
       color: gold;
 }
 
 .flex-row{
-      justify-content: space-around;
-      align-items: center;
+      justify-content: space-between;
+      align-items: auto; 
+      display: flex;
+   
+      position: flex;
+        Width: 100%;
       
+       
 }
+@media screen and (max-width: 768px){
+      .flex-row a {
+          width: 100%;
+          margin: 0 auto;
+          display: table;
+          text-align: center;
+      }
+      
+    }
 
 
